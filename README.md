@@ -1,7 +1,7 @@
 # Heat Diffusion Simulation
 
 ## Overview
-This project simulates heat diffusion in a three-dimensional space with a heat source. It compares explicit and implicit methods to analyze heat propagation in different materials.
+This project simulates heat diffusion in a three-dimensional space where the temperature is 20°C everywhere except at a central heat source with a temperature of 500°C. The goal is to compare the performance of different materials in the three-dimensional domain using both explicit and implicit methods for solving the heat diffusion equation.
 
 ## Features
 - **Explicit Method:** Implements a straightforward approach to heat diffusion.
